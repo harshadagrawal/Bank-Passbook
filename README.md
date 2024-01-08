@@ -1,1 +1,1 @@
-# Notes
+Developed a Bank Passbook Management System using Python and SQL to enable customers to track their transactions in real-time. Built the front-end using Python, including user authentication and transaction history display. Created the back-end using SQL to store and manage transaction data securely. Integrated Python and SQL to build a functional and user-friendly application. Successfully tested and demonstrated the system's functionality.
